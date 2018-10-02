@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Speed Of Sound to Temperature</string>
+    <string name="kmPerHr">" Km/Hr"</string>
+</resources>
